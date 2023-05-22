@@ -1,3 +1,3 @@
 # Nexter
 
-Website template in HTML, CSS, and Javascript.
+Website template in HTML, and CSS.
