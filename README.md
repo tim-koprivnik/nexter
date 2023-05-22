@@ -1,2 +1,3 @@
 # Nexter
-Website template, made in HTML &amp; (S)CSS
+
+Website template in HTML, CSS, and Javascript.
